@@ -1,5 +1,5 @@
-#SunnySide - front-end test for BWB 
-Frameworks used in this project  : #Tailwind #React
+# SunnySide - front-end test for BWB 
+Frameworks used in this project  : # Tailwind and React
 
 To run this project : 
 
