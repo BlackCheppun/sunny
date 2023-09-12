@@ -3,7 +3,7 @@ Frameworks used in this project  : Tailwind and React
 
 To run this project : 
 
-make sure to install dependencies, to do so run this command 'npm install i'
+make sure to install dependencies, to do so run this command `npm install i`
 
 then run this command :
 ### `npm start`
